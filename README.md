@@ -62,3 +62,4 @@ For Mac or Linux users enter:
   
 `git config --global core.autocrlf input`  
   
+MERGE CONFLICT (new-branch-1)
