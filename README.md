@@ -1,4 +1,5 @@
 # best-repo-ever
+[Git and GitHub Basics](https://trailhead.salesforce.com/content/learn/modules/git-and-git-hub-basics/work-with-the-git-hub-workflow?trailmix_creator_id=walters954&trailmix_slug=cloud-code-getting-started)
 
 ## Overview of the GitHub Workflow  
 The GitHub flow is a lightweight workflow that lets you experiment with new ideas safely, without fear of compromising a project. The main steps are:  
@@ -61,6 +62,4 @@ For Windows users enter:
 For Mac or Linux users enter:  
   
 `git config --global core.autocrlf input`  
-  
-THIS CHANGE FROM new-branch-2  
   
